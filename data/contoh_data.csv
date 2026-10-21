@@ -1,0 +1,6 @@
+id,nama_arsip,jenis_data,format,tanggal_kegiatan,sumber,keterangan
+1,Latihan Tari Pendet,foto,JPG,2026-10-21,Sanggar Tari,Dokumentasi latihan
+2,Pertunjukan Tari Kecak,video,MP4,2026-10-21,Sanggar Tari,Dokumentasi pertunjukan
+3,Musik Pengiring Tari,audio,MP3,2026-10-21,Sanggar Tari,Rekaman musik pengiring
+4,Catatan Kegiatan,teks,TXT,2026-10-21,Sanggar Tari,Catatan kegiatan sanggar
+5,Lokasi Sanggar,spasial,GeoJSON,2026-10-21,Sanggar Tari,Informasi lokasi sanggar
